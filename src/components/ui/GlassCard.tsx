@@ -1,0 +1,18 @@
+import React from 'react';
+
+interface GlassCardProps {
+    children: React.ReactNode;
+    className?: string;
+    onClick?: () => void;
+}
+
+export const GlassCard: React.FC<GlassCardProps> = ({ children, className = '', onClick }) => {
+    return (
+        <div
+            onClick={onClick}
+            className={`bg-white/70 backdrop-blur-xl border border-white/20 shadow-xl rounded-2xl transition-all ${className}`}
+        >
+            {children}
+        </div>
+    );
+};

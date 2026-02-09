@@ -1,0 +1,367 @@
+[
+    {
+        "id": "113105",
+        "name": "Sanabria Jiménez Carlos",
+        "supervisor": "Enrique Cascante",
+        "skills": [
+            "Banca Fácil"
+        ],
+        "rotationGroup": "morning_7am"
+    },
+    {
+        "id": "113137",
+        "name": "Sandi Fernandez Maureen",
+        "supervisor": "Enrique Cascante",
+        "skills": [
+            "Banca Fácil",
+            "Contraloría"
+        ]
+    },
+    {
+        "id": "113089",
+        "name": "Lopez Zamora Yareth Sofia",
+        "supervisor": "Enrique Cascante",
+        "skills": [
+            "Banca Fácil",
+            "Contraloría",
+            "Visa",
+            "Aura"
+        ]
+    },
+    {
+        "id": "113048",
+        "name": "Murillo Arauz Fiorella Shirlene",
+        "supervisor": "Enrique Cascante",
+        "skills": [
+            "Banca Fácil",
+            "Contraloría",
+            "Aura"
+        ]
+    },
+    {
+        "id": "113052",
+        "name": "Sandoval Granados Melany",
+        "supervisor": "Enrique Cascante",
+        "skills": [
+            "Banca Fácil",
+            "Contraloría"
+        ],
+        "rotationGroup": "morning_7am"
+    },
+    {
+        "id": "113046",
+        "name": "Barrera Quintero Leonel",
+        "supervisor": "Enrique Cascante",
+        "skills": [
+            "Banca Fácil",
+            "Contraloría"
+        ]
+    },
+    {
+        "id": "113078",
+        "name": "López Rodriguez Jennifer Natalia",
+        "supervisor": "Enrique Cascante",
+        "skills": [
+            "Banca Fácil",
+            "Contraloría",
+            "Aura"
+        ]
+    },
+    {
+        "id": "113067",
+        "name": "Brenes Arrones Wendy Nalleli",
+        "supervisor": "Junior Bojorge",
+        "skills": [
+            "Banca Fácil",
+            "Aura",
+            "Pensiones",
+            "Contraloría"
+        ]
+    },
+    {
+        "id": "113060",
+        "name": "López García Santiago",
+        "supervisor": "Junior Bojorge",
+        "skills": [
+            "Banca Fácil",
+            "Pensiones",
+            "Contraloría"
+        ]
+    },
+    {
+        "id": "113065",
+        "name": "Ocampo Fernández Marilyn",
+        "supervisor": "Junior Bojorge",
+        "skills": [
+            "Banca Fácil",
+            "Pensiones",
+            "Aura",
+            "Contraloría"
+        ]
+    },
+    {
+        "id": "113034",
+        "name": "Martínez Moreno Hazel Rubenia",
+        "supervisor": "Junior Bojorge",
+        "skills": [
+            "Banca Fácil",
+            "Pensiones",
+            "Contraloría"
+        ]
+    },
+    {
+        "id": "113051",
+        "name": "Sandino Calderón Jenifer",
+        "supervisor": "Junior Bojorge",
+        "skills": [
+            "Banca Fácil",
+            "Contraloría",
+            "Aura"
+        ],
+        "fixedShift": "07:00-15:00"
+    },
+    {
+        "id": "113012",
+        "name": "Quesada Azofeifa Denis Steven",
+        "supervisor": "Junior Bojorge",
+        "skills": [
+            "Banca Fácil"
+        ]
+    },
+    {
+        "id": "113004",
+        "name": "Ortiz Jimenez Angie de los Angeles",
+        "supervisor": "Junior Bojorge",
+        "skills": [
+            "Banca Fácil"
+        ]
+    },
+    {
+        "id": "113038",
+        "name": "Arana Zúñiga Daniel",
+        "supervisor": "Junior Bojorge",
+        "skills": [
+            "Banca Fácil"
+        ]
+    },
+    {
+        "id": "113062",
+        "name": "Robinson Rojas Sebastián",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Banca Fácil",
+            "800 Tarjetas"
+        ],
+        "tags": [
+            "800_tarjetas"
+        ]
+    },
+    {
+        "id": "113080",
+        "name": "Oporta Martínez Fernando Uriel",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Visa",
+            "Aura",
+            "Conexión y Punto",
+            "Mesa Fraude",
+            "MiPymes",
+            "800 Tarjetas"
+        ],
+        "rotationGroup": "closing_specialist"
+    },
+    {
+        "id": "113068",
+        "name": "Agüero Cerdas, Eva María",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Conexión BP",
+            "Punto BP",
+            "Cancelación",
+            "Phishing",
+            "Visa",
+            "MiPymes"
+        ],
+        "fixedShift": "15:00-22:00"
+    },
+    {
+        "id": "113144",
+        "name": "Peralta Vargas Ashlli Massiel",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Cancelación",
+            "Visa",
+            "Aura",
+            "Conexión y Punto",
+            "Mesa Fraude",
+            "MiPymes",
+            "800 Tarjetas"
+        ],
+        "rotationGroup": "closing_specialist"
+    },
+    {
+        "id": "113110",
+        "name": "Herrera Vargas José Andres",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Conexión y Punto",
+            "MiPymes",
+            "Aura",
+            "Visa",
+            "Cancelación",
+            "800 Tarjetas"
+        ]
+    },
+    {
+        "id": "113015",
+        "name": "Bolaños Salas Verónica del Guadalupe",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Conexión BP",
+            "Punto BP",
+            "Cancelación",
+            "Phishing",
+            "Visa",
+            "MiPymes"
+        ]
+    },
+    {
+        "id": "113047",
+        "name": "Fonseca Jiménez Ligia",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Cancelación",
+            "Visa",
+            "Aura",
+            "Conexión y Punto",
+            "Mesa Fraude",
+            "MiPymes",
+            "800 Tarjetas"
+        ]
+    },
+    {
+        "id": "113021",
+        "name": "Vega Ramirez David",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Cancelación",
+            "Visa",
+            "Aura",
+            "Conexión y Punto",
+            "Mesa Fraude",
+            "MiPymes",
+            "800 Tarjetas"
+        ],
+        "fixedShift": "13:00-20:00"
+    },
+    {
+        "id": "113027",
+        "name": "Castro Mora Ricardo Jesús",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Cancelación",
+            "Visa",
+            "Aura",
+            "Conexión y Punto",
+            "Mesa Fraude",
+            "MiPymes",
+            "800 Tarjetas"
+        ]
+    },
+    {
+        "id": "113008",
+        "name": "Marcano De Santis Daneiker Adrian",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "800 Tarjetas",
+            "Aura"
+        ],
+        "fixedShift": "15:00-22:00"
+    },
+    {
+        "id": "113086",
+        "name": "Zúñiga Hernández Willian Daniel",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Banca Fácil",
+            "800 Tarjetas"
+        ],
+        "tags": [
+            "800_tarjetas"
+        ]
+    },
+    {
+        "id": "113101",
+        "name": "Cascante Quesada Fernando Javier",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Banca Fácil"
+        ]
+    },
+    {
+        "id": "113025",
+        "name": "Olivas Segura Jossimar de Jesus",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Banca Fácil",
+            "800 Tarjetas"
+        ],
+        "tags": [
+            "800_tarjetas"
+        ]
+    },
+    {
+        "id": "113028",
+        "name": "Delgado Alvarado Adeny",
+        "supervisor": "Kevin Chaves",
+        "skills": [
+            "Banca Fácil",
+            "800 Tarjetas"
+        ],
+        "tags": [
+            "800_tarjetas"
+        ]
+    },
+    {
+        "id": "113058",
+        "name": "Corrales Villegas Hillary",
+        "supervisor": "Yuliana Solís",
+        "skills": [
+            "Banca Fácil",
+            "Contraloría",
+            "Pensiones"
+        ]
+    },
+    {
+        "id": "113007",
+        "name": "Gonzalez Corea Nakisha María",
+        "supervisor": "Yuliana Solís",
+        "skills": [
+            "Banca Fácil"
+        ]
+    },
+    {
+        "id": "113091",
+        "name": "Abarca Thames Alejandro Enrique",
+        "supervisor": "Yuliana Solís",
+        "skills": [
+            "Banca Fácil"
+        ]
+    },
+    {
+        "id": "113123",
+        "name": "Rojas Aparicio Kevin Alberto",
+        "supervisor": "Yuliana Solís",
+        "skills": [
+            "Banca Fácil"
+        ]
+    },
+    {
+        "id": "113079",
+        "name": "Soto Umaña Oscar Andres",
+        "supervisor": "Yuliana Solís",
+        "skills": [
+            "Banca Fácil"
+        ]
+    }
+]
