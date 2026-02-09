@@ -1,6 +1,6 @@
 import { create } from 'zustand';
-// Importamos ViewOption desde types
-import type { ScheduleState, Agent, Shift, ViewOption } from '../types';
+// Importamos tipos necesarios
+import type { ScheduleState, Agent } from '../types';
 import staffData from '../data/staff.json';
 
 // Ordenamos agentes

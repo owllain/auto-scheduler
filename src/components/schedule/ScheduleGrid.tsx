@@ -5,7 +5,7 @@ import { es } from 'date-fns/locale';
 import { getShiftColor, getShiftLabel } from '../../utils/shiftUtils';
 import { getSupervisorStyle } from '../../utils/styleUtils';
 // Aseguramos que se usen estos iconos en el return
-import { Clock, User, Search, Filter, Plus } from 'lucide-react';
+import { User, Search, Filter, Plus } from 'lucide-react';
 import { ShiftEditor } from './ShiftEditor';
 import type { Shift } from '../../types';
 
