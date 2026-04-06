@@ -70,7 +70,7 @@ export const TemplateGeneratorView: React.FC = () => {
 
         try {
             // 1. Obtener nombres de hojas
-            const sheetNames = await readXlsxFile(file, { getSheets: true }) as unknown as any[];
+            const sheetNames = await readXlsxFile(file, { getSheets: true } as any) as unknown as any[];
             
             // 2. Detectar la hoja correcta
             let targetSheet = sheetNames.find((s: any) => s.name === 'Lista de personal .');
