@@ -1,0 +1,82 @@
+{
+    "shifts": {
+        "apertura": {
+            "start": "06:00",
+            "end": "14:00"
+        },
+        "manana": {
+            "start": "07:00",
+            "end": "15:00"
+        },
+        "estandar": {
+            "start": "08:00",
+            "end": "17:00"
+        },
+        "tarde": {
+            "start": "13:00",
+            "end": "20:00"
+        },
+        "cierre": {
+            "start": "15:00",
+            "end": "22:00"
+        }
+    },
+    "rotations": {
+        "closing_specialist": {
+            "agents": [
+                "113144",
+                "113080"
+            ],
+            "rule": "weekly_swap",
+            "description": "Se turnan Ashlli y Fernando por semana para cierre"
+        },
+        "morning_7am": {
+            "agents": [
+                "113052",
+                "113105"
+            ],
+            "rule": "weekly_swap",
+            "description": "Se turnan Melany y Carlos por semana para entrar a las 7am"
+        },
+        "closing_filler": {
+            "pool_tag": "800_tarjetas",
+            "count_needed": 1,
+            "rule": "random_available",
+            "description": "El 4to de cierre sale al azar de los 800 Tarjetas restantes"
+        }
+    },
+    "skill_hours": {
+        "Conexión y Punto": {
+            "start": "06:00",
+            "end": "22:00",
+            "days": "All"
+        },
+        "Cancelación": {
+            "start": "08:00",
+            "end": "16:30",
+            "days": "Mon-Fri"
+        },
+        "Contraloría": {
+            "start": "08:00",
+            "end": "20:00",
+            "days": "Mon-Fri"
+        },
+        "Pensiones": {
+            "start": "08:00",
+            "end": "19:00",
+            "days": "Mon-Fri",
+            "sat_end": "17:00"
+        },
+        "Banca Fácil": {
+            "start": "08:00",
+            "end": "20:00",
+            "days": "Mon-Fri"
+        },
+        "24_7": [
+            "Aura",
+            "Visa",
+            "Mesa Fraude",
+            "Bilingüe"
+        ]
+    }
+}

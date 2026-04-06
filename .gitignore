@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Project specific: Debugging & Logs
+errors.txt
+build_errors.txt
+eslint_errors.txt
+final_lint.txt
+lint_results.txt
+output_utf8.txt
+*.log
+
+# Scripts de depuración
+debug_excel.cjs
+find_headers.cjs
+inspect_excel.cjs
+inspect_excel.js
+checker.js
